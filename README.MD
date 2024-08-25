@@ -67,7 +67,7 @@ qc.h(1)    # Aplicar Hadamard
 ```
 
 # Change the Number of Shots
-You can modify the number of times you run the simulation to see how the statistical results change:
+You can modify the number of times you run the simulation to see how the statistical results change: 
 ```result = execute(qc, simulator, shots=4096).result()  # Cambiar a 4096 tiros```
 
 # Display in Different Formats
