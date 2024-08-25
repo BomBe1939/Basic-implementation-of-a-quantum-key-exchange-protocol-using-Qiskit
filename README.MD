@@ -12,7 +12,7 @@ This simulation, does the following:
 Using the bell state
 ![Texto alternativo](https://github.com/BomBe1939/Basic-implementation-of-a-quantum-key-exchange-protocol-using-Qiskit/blob/main/bell-state.PNG)
 
-#Instalation
+# Instalation
 
 This code uses qiskit to simulate quantum entanglement and qubit measurement in different bases. If you don't have qiskit installed yet, you can install it with:
 
