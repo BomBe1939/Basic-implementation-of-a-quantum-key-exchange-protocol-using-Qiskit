@@ -8,3 +8,31 @@ This simulation, does the following:
 
 3) Visualize the correlation using a Bloch sphere or bar graphs to show how measurements in different bases are correlated.
 
+
+Using the bell state
+![image alt][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qutube.nl%2Ffundamentals-11%2Fwhy-every-maximally-entangled-state-is-secretly-a-bell-state&psig=AOvVaw3M3JdK2Lg-j0_ZFp-OYcPB&ust=1724693324660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiukrnVkIgDFQAAAAAdAAAAABAE]
+
+#Instalation
+
+This code uses qiskit to simulate quantum entanglement and qubit measurement in different bases. If you don't have qiskit installed yet, you can install it with:
+
+```pip install qiskit```
+
+# Procedure
+
+ A circuit with two qubits is created. The Hadamard gate H is applied to the first qubit, followed by a CNOT gate to entangle the qubits, forming the Bell state. Therefore, they are measured in the standard basis and the distribution of results is visualized. Given the entanglement, you should see a strong correlation between the qubits. Lastly the Hadamard gate is applied to both qubits to measure on a different basis. This shows how entanglement persists even on different bases.
+
+# Expected Results
+
+- Measurement at the Computational Base: You should see that only the states appear, reflecting entanglement.
+- Measurement in the Hadamard Basis: Again, you should see that only correlated states appear, showing that the qubits are entangled.
+
+You can expand or modify it to explore other quantum properties, such as:
+
+# Change Bell Status
+
+
+
+
+
+
