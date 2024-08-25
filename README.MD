@@ -10,7 +10,7 @@ This simulation, does the following:
 
 
 Using the bell state
-![image alt][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qutube.nl%2Ffundamentals-11%2Fwhy-every-maximally-entangled-state-is-secretly-a-bell-state&psig=AOvVaw3M3JdK2Lg-j0_ZFp-OYcPB&ust=1724693324660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiukrnVkIgDFQAAAAAdAAAAABAE]
+![image alt][https://github.com/BomBe1939/Basic-implementation-of-a-quantum-key-exchange-protocol-using-Qiskit/blob/main/bell-state.PNG]
 
 #Instalation
 
