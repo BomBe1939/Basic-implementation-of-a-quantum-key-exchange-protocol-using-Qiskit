@@ -79,3 +79,16 @@ plot_bloch_multivector(statevector)
 plt.show()
 ```
 If you try these modifications, you will gain a deeper understanding of how entanglement works and how measurements on different bases affect the results.
+
+
+# The protocol BB84 (AliceBob)
+
+Alice prepares qubits on a random basis (computational or Hadamard) then Alice sends the qubits to Bob, who also measures on a random basis. Alice and Bob publicly compare the bases they used for each qubit. If the bases match, the results of their measurements should match, and these bits are used to form a key. If an eavesdropper (Eve) tries to intercept the key, the interference introduced will be detectable, since it will alter the measurement results.
+
+# Explanation of the Code
+
+Alice creates a random sequence of bits and bases (0 for computational basis, 1 for Hadamard basis), depending on the bits and bases, Alice prepares a qubit in the state ∣0⟩,∣1⟩,∣+⟩ or 
+∣−⟩. Bob also randomly chooses bases and measures the qubits he received, so A and B compare their bases, and only those qubits that were measured in the same bases are used to form the shared key.
+
+This code is a first step towards quantum cryptography. You can build on it to simulate a noisy channel or include an eavesdropper that tries to intercept the qubits.
+
