@@ -10,7 +10,7 @@ This simulation, does the following:
 
 
 Using the bell state
-![image alt][https://github.com/BomBe1939/Basic-implementation-of-a-quantum-key-exchange-protocol-using-Qiskit/blob/main/bell-state.PNG]
+![bell-state][https://github.com/BomBe1939/Basic-implementation-of-a-quantum-key-exchange-protocol-using-Qiskit/blob/main/bell-state.PNG]
 
 #Instalation
 
