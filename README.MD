@@ -98,7 +98,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0. If you use Qiskit in your research, please cite it as follows:
+This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0.
 
 ```bibtex
 @misc{qiskit2024,
