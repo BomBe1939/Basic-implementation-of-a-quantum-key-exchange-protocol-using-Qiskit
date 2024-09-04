@@ -100,4 +100,16 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0. You can view the full license [here](https://www.apache.org/licenses/LICENSE-2.0).
 
+## Citation
+
+```bibtex
+@misc{Bombe2024QKE,
+  author       = {Bombe},
+  title        = {Basic implementation of a quantum key exchange protocol using Qiskit},
+  year         = {2024},
+  url          = {https://github.com/BomBe1939/Basic-implementation-of-a-quantum-key-exchange-protocol-using-Qiskit},
+  note         = {GitHub repository},
+}
+
+
 
