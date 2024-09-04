@@ -92,3 +92,12 @@ Alice creates a random sequence of bits and bases (0 for computational basis, 1 
 
 This code is a first step towards quantum cryptography. You can build on it to simulate a noisy channel or include an eavesdropper that tries to intercept the qubits.
 
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+### Acknowledgments
+
+This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0. You can view the full license [here](https://www.apache.org/licenses/LICENSE-2.0).
+
+
