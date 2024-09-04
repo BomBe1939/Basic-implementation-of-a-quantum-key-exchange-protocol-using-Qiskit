@@ -110,7 +110,3 @@ This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apa
   archivePrefix={arXiv},
   primaryClass={quant-ph}
 }
-
-
-
-
