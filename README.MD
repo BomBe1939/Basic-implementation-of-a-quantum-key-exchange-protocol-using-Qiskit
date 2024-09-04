@@ -96,21 +96,19 @@ This code is a first step towards quantum cryptography. You can build on it to s
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-### Acknowledgments
+## Acknowledgments
 
-This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0. You can view the full license [here](https://www.apache.org/licenses/LICENSE-2.0).
-
-## Citation
+This project uses [Qiskit](https://qiskit.org/), which is licensed under the Apache License 2.0. If you use Qiskit in your research, please cite it as follows:
 
 ```bibtex
 @misc{qiskit2024,
-   title={Quantum computing with {Q}iskit},
-   author={Javadi-Abhari, Ali and Treinish, Matthew and Krsulich, Kevin and Wood, Christopher J. and Lishman, Jake and Gacon, Julien and Martiel, Simon and Nation, Paul D. and Bishop, Lev S. and Cross, Andrew W. and Johnson, Blake R. and Gambetta, Jay M.},
-   year={2024},
-   doi={10.48550/arXiv.2405.08810},
-   eprint={2405.08810},
-   archivePrefix={arXiv},
-   primaryClass={quant-ph}
+  title={Quantum computing with {Q}iskit},
+  author={Javadi-Abhari, Ali and Treinish, Matthew and Krsulich, Kevin and Wood, Christopher J. and Lishman, Jake and Gacon, Julien and Martiel, Simon and Nation, Paul D. and Bishop, Lev S. and Cross, Andrew W. and Johnson, Blake R. and Gambetta, Jay M.},
+  year={2024},
+  doi={10.48550/arXiv.2405.08810},
+  eprint={2405.08810},
+  archivePrefix={arXiv},
+  primaryClass={quant-ph}
 }
 
 
